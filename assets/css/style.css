@@ -1,0 +1,119 @@
+/*font-family: 'Montserrat', sans-serif; */
+.navbar{
+    background-color:#ffffff00;
+    position: fixed; top: 0%;
+    z-index:10;
+    
+    
+}
+
+.col{
+    text-align: justify;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    
+    
+}
+
+
+body{
+    background-color: black;
+}
+
+.titulo-bajada{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat', 400;
+    font-size: 12px;
+}
+
+.card{
+
+    background-color:blueviolet;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-left: 300px;
+    margin: 20px auto;
+    margin-bottom: 20px;
+    border-radius: 4px;
+
+    
+    
+   
+    
+}
+
+footer {
+    
+    
+    background-color:rgb(49, 49, 49);
+    
+   
+
+}
+.section{
+
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+.iconosfooter{
+    text-align: right;
+   
+    color: white;
+    padding-right: 60px;
+  
+}
+.textofooter{
+    color: white;
+    padding-left: 60px;
+  
+    
+    
+}
+
+.navbar-nav{
+
+margin-left: 200px;
+}
+
+
+
+@media (max-width: 768px) {
+    .quienes-somos {
+      display: none ;
+    
+    }
+}
+
+.form-label{
+
+    color: white;
+    
+  
+}
+
+.titulo-form{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat', 400;
+    font-size: 12px;
+
+}
+
+.icono{
+
+    background-color: blueviolet;
+   
+}
+
+.btn{
+
+    color: white;
+    background-color: blueviolet;
+}
